@@ -45,21 +45,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammil8058&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil8058&layout=compact&theme=github_dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil8058&theme=github-dark-blue" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muzammil8058&theme=algolia&row=1&column=6" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
